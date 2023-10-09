@@ -1,4 +1,4 @@
-##   sou o Júlio dias     👋
+##   sou o Júlio dias, Estudante de Desenvolvimento Fullstacks     👋
  <div align="center">
       </div>
  <div>  
